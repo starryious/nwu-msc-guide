@@ -1,4 +1,4 @@
-# 西北大学数学学院生存指北
+# 西北大学数学学院自学指北
 
 > *Our grand business is not to focus on what lies dimly at a distance but to do what lies clearly at hand.*
 
