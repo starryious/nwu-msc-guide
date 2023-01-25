@@ -8,4 +8,6 @@
 
 校园邮箱:[Coremail (icoremail.net)](https://edu.icoremail.net/coremail/)
 
-官网:[西北大学 (nwu.edu.cn)](https://www.nwu.edu.cn/)
+西大官网:[西北大学 (nwu.edu.cn)](https://www.nwu.edu.cn/)
+
+数院官网: [西北大学数学学院 (nwu.edu.cn)](https://math.nwu.edu.cn/)
