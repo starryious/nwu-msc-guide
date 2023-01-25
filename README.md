@@ -21,7 +21,7 @@
 目标很简单,最主要的目标就是记录自己的学习,为自己的学习提供动力,其次就是能给学弟学妹们有一个借鉴.
 
 ## 贡献
-**欢迎贡献！**一个人的力量终究是有限的，对于任意部分你若有想要补充的内容，或者有建议,欢迎各位提出.可以联系qq:81156447
+**欢迎贡献!**一个人的力量终究是有限的，对于任意部分你若有想要补充的内容，或者有建议,欢迎各位提出.可以联系qq:81156447
 
 同时由于个人水平有限，难免有笔误甚至概念错误之处，也请各位不吝赐教, 若材料涉及侵权请联系我.**2022/6/25**
 
@@ -31,3 +31,6 @@
 
 [cs学习](https://github.com/eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum)
 
+[thu计算机系攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/README.html)
+
+[NWU.ICU资源共享](https://resour.nwu.icu/?dir=uploads/1)

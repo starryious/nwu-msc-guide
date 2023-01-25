@@ -1,0 +1,35 @@
+# 机器学习
+
+## 公开课推荐
+
+**Stanford-CS229**
+
+ [【ML】斯坦福CS229：机器学习中英文字幕 by Andrew Ng_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19e411W7ga/?spm_id_from=333.999.0.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
+
+**NTU_ML**
+
+[ML 2022 Spring (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
+
+[ML 2020 Spring (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/ml/2020-spring.php)
+
+[Hung-yi Lee (ntu.edu.tw)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
+
+[(22条消息) 李宏毅2020机器学习资料汇总_iteapoy的博客-CSDN博客_李宏毅机器学习2020](https://blog.csdn.net/iteapoy/article/details/105382315)
+
+[李宏毅2020机器学习深度学习(完整版)国语_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JE411g7XF/?spm_id_from=333.999.0.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
+
+[(22条消息) [机器学习入门\] 经典台大李宏毅机器学习课程从这里开始_holeung的博客-CSDN博客](https://blog.csdn.net/soulmeetliang/article/details/77461607)
+
+**Coursera-ML**
+
+[[中英字幕\]吴恩达机器学习系列课程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV164411b7dx/?spm_id_from=333.999.0.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
+
+## 书籍推荐
+
+西瓜书
+
+## 材料推荐
+
+[JustFollowUs/Machine-Learning (github.com)](https://github.com/JustFollowUs/Machine-Learning)
+
+[Sakura-gh/ML-notes: notes about machine learning (github.com)](https://github.com/Sakura-gh/ML-notes)

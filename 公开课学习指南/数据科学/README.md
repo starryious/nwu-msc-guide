@@ -2,6 +2,10 @@
 
 ## UCB Data8
 
+先修课程: 微积分
+
+建议学习时间: 大一寒假暑假
+
 我所用到的资源和作业的完成汇总于[starryious/data8-2022Fall (github.com)](https://github.com/starryious/data8-2022Fall)
 
 ## UCB Data100
