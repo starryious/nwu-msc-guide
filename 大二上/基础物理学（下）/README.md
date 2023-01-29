@@ -2,9 +2,13 @@
 
 ## 公开课推荐
 
-[Syllabus | Physics II: Electricity and Magnetism | Physics | MIT OpenCourseWare](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/)
+### MIT-8.02
 
-[【中英双字幕】MIT麻省理工电磁学公开课_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV124411R7r2/?spm_id_from=333.999.0.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
+课程网站: [电磁学](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/)
+
+课程视频: [电磁学](https://www.bilibili.com/video/BV124411R7r2/?spm_id_from=333.999.0.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
+
+我学习用到的材料汇总与 [starryious/MIT-8.02 (github.com)](https://github.com/starryious/MIT-8.02)
 
 ## 其他推荐
 
