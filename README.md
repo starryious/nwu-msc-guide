@@ -29,10 +29,10 @@
 
 北大数院指南: [PKUSMS-UndergradGuide (qq.com)](https://docs.qq.com/doc/p/aec47ed20c2170d9f680ceaaf81b2b0c8aa7a2a9)
 
-[cs学习](https://github.com/eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum)
+github 计算机学习: [cs学习](https://github.com/eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum)
 
-[thu计算机系攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/README.html)
+清华计算机课程攻略: [thu计算机系攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/README.html)
 
-[NWU.ICU资源共享](https://resour.nwu.icu/?dir=uploads/1)
+西大资源共享: [NWU.ICU资源共享](https://resour.nwu.icu/?dir=uploads/1)
 
-[南方科技大学飞跃手册 (sustech-application.com)](https://sustech-application.com/#/)
+南方科技大学飞跃手册: [南方科技大学飞跃手册 (sustech-application.com)](https://sustech-application.com/#/)
