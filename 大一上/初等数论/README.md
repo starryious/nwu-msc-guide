@@ -8,5 +8,5 @@ Analytical Number Theory - Apostol
 
 ### MIT-18.781
 
-课程网站: [Theory of Numbers | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/)
+课程网站: [MIT-18.781](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/)
 

@@ -2,7 +2,7 @@
 
 ## 视频推荐
 
-[Introduction to Differential Equations and the MATLAB® ODE Suite_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV17s41167Cg?p=1&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
+[MIT微分方程与MATLAB](https://www.bilibili.com/video/BV17s41167Cg?p=1&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
 
 ## 使用教材
 

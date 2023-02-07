@@ -4,6 +4,8 @@
 
 ### MIT-8.02
 
+Walter Lewin 教授讲授的电磁学课程, 深入浅出, 内容完整且切合国内大学电磁学内容, 每节课都有现场实验来展现电磁学在实际中的应用, 十分好的课程, 强烈推荐.
+
 课程网站: [电磁学](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/)
 
 课程视频: [电磁学](https://www.bilibili.com/video/BV124411R7r2/?spm_id_from=333.999.0.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)

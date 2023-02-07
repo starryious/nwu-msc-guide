@@ -14,17 +14,17 @@
 
 ### NTU_ML
 
-[ML 2022 Spring (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
+课程网站: [ML 2022 Spring (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
 
-[ML 2020 Spring (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/ml/2020-spring.php)
+课程视频: [李宏毅2020机器学习深度学习(完整版)国语_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JE411g7XF/?spm_id_from=333.999.0.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
 
-[Hung-yi Lee (ntu.edu.tw)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
+课程资源: [Hung-yi Lee (ntu.edu.tw)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
 
 [李宏毅2020机器学习资料汇总_iteapoy的博客-CSDN博客_李宏毅机器学习2020](https://blog.csdn.net/iteapoy/article/details/105382315)
 
-[李宏毅2020机器学习深度学习(完整版)国语_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JE411g7XF/?spm_id_from=333.999.0.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
-
 [机器学习入门\] 经典台大李宏毅机器学习课程从这里开始_holeung的博客-CSDN博客](https://blog.csdn.net/soulmeetliang/article/details/77461607)
+
+[干货！李宏毅机器学习课程 | 笔记(全) - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/398323656)
 
 ****
 
