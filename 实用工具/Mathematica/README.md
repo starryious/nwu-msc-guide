@@ -18,7 +18,7 @@ Mathematica programming: an  advanced introduction- Leonid Shifrin
 
 ### 其他教程
 
-短小精悍的教程:[j-star.org](https://j-star.org/mathematica_course.html)
+短小精悍的教程:[j-star.org](https://j-star.org/mathematica_course.html): 我翻译了第一个子教程 -- 工作表1,可以作为参考.
 
 北大刘思齐老师的教程:[《Mathematica及其应用》](https://www.bilibili.com/video/BV1av411N7Xi/?spm_id_from=333.999.0.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
 
