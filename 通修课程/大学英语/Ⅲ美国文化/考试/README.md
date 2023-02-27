@@ -17,3 +17,5 @@
 来源：教材课后题
 
 课后题答案参考: [美国社会与文化答案 - 百度文库 (baidu.com)](https://wenku.baidu.com/view/2139a1e7ba4cf7ec4afe04a1b0717fd5360cb27f.html?_wkts_=1676815825424)
+
+update: 不考纠错题, 一定要把课内内容过一遍... 作文是以学过的一单元为主题来展开写
