@@ -34,5 +34,4 @@ Numerical Analysis -Timothy Sauer
 
 主要是关于正定矩阵的讨论. 课程短小而精悍, 可以作为补充材料学习
 
-课程网站:[CSE 599I: The art and science of positive definite matrices](https://homes.cs.washington.edu/~jrl/teaching/cse599Isp21/)
-
+我学习用到的材料汇总于 [starryious/CSE-599I](https://github.com/starryious/CSE-599I)

@@ -7,3 +7,5 @@
 ## 材料推荐
 
 [Probability Tutorials](http://www.probability.net/)
+
+我学习用到的材料汇总于 [starryious/Measure-Theory-For-Probability](https://github.com/starryious/Measure-Theory-For-Probability)

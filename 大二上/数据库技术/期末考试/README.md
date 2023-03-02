@@ -1,5 +1,7 @@
 ## 2021级期末考试题型和部分题目
 
+推荐复习视频: [数据库必考习题合集_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1P5411e7rU/?spm_id_from=333.788.recommend_more_video.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
+
 ### 一. 名词解释
 
 1. 外码
