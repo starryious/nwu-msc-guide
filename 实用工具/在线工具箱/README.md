@@ -22,13 +22,15 @@ PDF类文件处理: https://smallpdf.com/cn/merge-pdf
 
 ​						   https://www.ilovepdf.com/zh-tw/remove-pages
 
+​							[扫描全能王](https://www.camscanner.com/tools/pictopdf)
+
 OCR识别: https://pearocr.com/#/
 
 RGB颜色代码: https://www.rapidtables.org/zh-CN/web/color/index.html
 
 小文件网盘快传: https://cowtransfer.com/
 
-手绘风格的绘图工具: https://excalidraw.com/
+手绘风格的绘图工具Excalidraw: https://excalidraw.com/
 
 收录名人名言: https://www.azquotes.com/
 

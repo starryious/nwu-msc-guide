@@ -4,6 +4,10 @@
 
 实变函数与泛函分析概要 郑维行, 王声望
 
+## 课程内容
+
+平时20%, 期中20%, 期末60%
+
 ## 材料推荐
 
 [Probability Tutorials](http://www.probability.net/)

@@ -1,8 +1,18 @@
 # 机器学习
 
+## 课程内容
+
+平时20%, 期中20%, 期末60%
+
+课上会点名
+
+考试内容: 填空, 代码, 证明
+
 ## 使用教材
 
 统计机器学习方法 李航
+
+课程资源: [DeepLearning-1/Projects/lihang-code at master · kamyu104/DeepLearning-1](https://github.com/kamyu104/DeepLearning-1/tree/master/Projects/lihang-code)
 
 ## 公开课推荐
 
