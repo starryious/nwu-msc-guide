@@ -1,3 +1,7 @@
+## 数学分析Ⅱ
+
+qq群号:595473459, 群内有部分上课ppt及图片, 和我认为有意思的补充材料
+
 ## 好题精选
 
 [奥林匹克数学竞赛专题 — 美国数学月刊积分不等式问题_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bb4y1H7eH/?spm_id_from=333.999.0.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
