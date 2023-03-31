@@ -12,10 +12,12 @@
 
 成绩构成: 期末 60%, 平时 20%, 期中 20%   平时成绩包括: 签到, 随堂测试3-4次, 4次上机作业, 上机作业需要完成上机报告.
 
+不要求课前预习, 课后复习, 听听老师讲就行, 期末背一背,(老师是这么说的)(逃)
+
+事实上, 数据结构与算法是计算机系本科中最重要的课之一.
+
 ## 公开课推荐
 
 ### UCB-CS61B
 
-课程网站: [Main | CS 61B Spring 2021 (datastructur.es)](https://sp21.datastructur.es/index.html)
-
-课程视频: [伯克利大学CS61B: Data Structures and Algorithms 数据结构与算法设计 2019年春 中英字幕 1-96课_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JS4y1c7DT/?spm_id_from=333.999.0.0&vd_source=d03b0f673ed993b8e86fd863bd92d95e)
+我学习用到的材料汇总于: [starryious/UCB-CS61B](https://github.com/starryious/UCB-CS61B)

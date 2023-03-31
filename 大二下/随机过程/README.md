@@ -2,10 +2,8 @@
 
 ## 公开课推荐
 
-### Yale-Statistics-251/551
-
-我学习用到的材料汇总于[starryious/Yale-Statistics-251-551](https://github.com/starryious/Yale-Statistics-251-551)
+我学习用到的材料汇总于https://github.com/starryious/Stochastic-Process
 
 ****
 
-建议先提前学一遍测度论
+建议先提前学一遍测度论, 但事实上学校课程的设置是随机过程和测度论一起学, 本科的随机过程一般都是基础部分, 用到的测度论知识不是很多.

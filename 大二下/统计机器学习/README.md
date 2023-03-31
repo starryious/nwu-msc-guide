@@ -28,7 +28,7 @@
 
 ### NTU_ML
 
-我学习用到的材料汇总于: [starryious/NTU-Machine-Learning (github.com)](https://github.com/starryious/NTU-Machine-Learning)
+我学习用到的材料汇总于: https://github.com/starryious/NTU-Machine-Learning
 
 ****
 

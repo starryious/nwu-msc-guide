@@ -1,5 +1,7 @@
 # ChatGPT Prompt
 
+[f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better. (github.com)](https://github.com/f/awesome-chatgpt-prompts)
+
 ## 英语学习
 
 ### 在线词典

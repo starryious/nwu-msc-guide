@@ -127,7 +127,7 @@ void polyadd(Polylist polya, Polylist polyb)
 
 **栈的抽象数据类型定义**:
 
-* 数据元素: 可以是任意类型的数据, 但必须属于同一个数据对象
+* 数据元素: 可以是任意类型的数据, 但必须属于<u>同一个数据对象</u>
 * 关系: 栈中数据元素之间是线性关系
 * 基本操作: `IniStack(S)` `ClearStack(S)` `IsEmpty(S)` `IsFull(S)` `Push(S,x)` `Pop(S,x)` `GetTop(S,x)`
 
