@@ -29,7 +29,7 @@ appease 绥靖
 
 participle 分词
 
-**Blending(混成法**) 期末要考 要查
+**Blending(混成法**) 
 
 1. Brunch (Breakfast + Lunch)
 2. Smog (Smoke + Fog)
@@ -51,7 +51,7 @@ participle 分词
 18. Fantabulous (Fantastic + Fabulous)
 19. Brinner (Breakfast + Dinner)
 
-**Shortening(缩略法)** 期末要考 要查  掐头, 去尾, 掐头去尾 查
+**Shortening(缩略法)** 
 
 1. Ad (Advertisement)
 2. App (Application)
