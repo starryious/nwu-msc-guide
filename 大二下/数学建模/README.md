@@ -12,7 +12,9 @@
 
 学校建模比赛作为期中成绩; 
 
-汇报直接拿校赛来用(逃)
+汇报直接拿校赛来用(逃), 也可以用 Differential equation with its application by Martin Braun 中的例子作为补充.
+
+上课听听故事得了,  要学的话还是推荐自学
 
 ## 学习方法
 

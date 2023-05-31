@@ -5,6 +5,8 @@
 * A Brief Introduction of NEEP (The National Entrance Examination for Postgraduates)
 * Knowledge of Word-formation
 
+不想考研的别报, workload太大了
+
 ## 成绩构成
 
 平时成绩20%, 期中成绩20%. 期末考试60%.

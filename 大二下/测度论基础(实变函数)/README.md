@@ -8,7 +8,4 @@
 
 平时20%, 期中20%, 期末60%
 
-## 材料推荐
-
-我学习用到的材料汇总于 https://github.com/starryious/Measure-Theory-For-Probability
-
+进度推的很忙, 郝yh老师讲课, 可以偶尔听一听, 自己看书学更好

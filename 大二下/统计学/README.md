@@ -12,13 +12,4 @@
 
 考前会复习重点
 
-## 公开课推荐
-
-我学习用到的材料汇总于https://github.com/starryious/Mathematical-Statistics
-
-****
-
-## 书籍推荐
-
-统计思维: [Computer Age Statistical Inference: ](https://hastie.su.domains/CASI/)
-
+王惠y老师讲课流畅, 讲的内容难度适中, 可以认真听一听
