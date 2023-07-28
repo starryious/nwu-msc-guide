@@ -2,6 +2,8 @@
 
 > *Our grand business is not to focus on what lies dimly at a distance but to do what lies clearly at hand.*
 
+已经全面部署到了[Notion 西大数院攻略](https://pine-engine-d85.notion.site/1405d00356e44dc494709519ca8e766c?pvs=4)
+
 ## 前言
 
 欢迎来到西大数院,来到大学这座象牙塔.经过大一这一阶段,我了解了很多,收获了很多,同时也失去了很多.在这之中,信息的获取毫无疑问是大学之中至关重要的一环.受到了各类项目的启发,包括但不限于  [清华计算机课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/README.html),  [浙江大学课程攻略](https://github.com/QSCTech/zju-icicles),我也决定在大一结束之际开始这个攻略. 
